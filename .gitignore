@@ -1,0 +1,17 @@
+# Visual Studio Code #
+#####################
+.vscode/
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Python #
+##########
+*.pyc
+*.pyo
+venv/
+env/
+__pycache__/
